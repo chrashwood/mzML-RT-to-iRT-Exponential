@@ -1,0 +1,10 @@
+C:\Users\Chris\source\repos\20180401_RTtoiRT\20180401_RTtoiRT\bin\Release\20180401_RTtoiRT.exe.config
+C:\Users\Chris\source\repos\20180401_RTtoiRT\20180401_RTtoiRT\bin\Release\20180401_RTtoiRT.exe
+C:\Users\Chris\source\repos\20180401_RTtoiRT\20180401_RTtoiRT\bin\Release\20180401_RTtoiRT.pdb
+C:\Users\Chris\source\repos\20180401_RTtoiRT\20180401_RTtoiRT\obj\Release\_20180401_RTtoiRT.Form1.resources
+C:\Users\Chris\source\repos\20180401_RTtoiRT\20180401_RTtoiRT\obj\Release\_20180401_RTtoiRT.Properties.Resources.resources
+C:\Users\Chris\source\repos\20180401_RTtoiRT\20180401_RTtoiRT\obj\Release\20180401_RTtoiRT.csproj.GenerateResource.cache
+C:\Users\Chris\source\repos\20180401_RTtoiRT\20180401_RTtoiRT\obj\Release\20180401_RTtoiRT.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\20180401_RTtoiRT\20180401_RTtoiRT\obj\Release\20180401_RTtoiRT.exe
+C:\Users\Chris\source\repos\20180401_RTtoiRT\20180401_RTtoiRT\obj\Release\20180401_RTtoiRT.pdb
+C:\Users\Chris\source\repos\20180401_RTtoiRT\20180401_RTtoiRT\obj\Release\20180401_RTtoiRT.csprojResolveAssemblyReference.cache
