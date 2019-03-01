@@ -16,20 +16,22 @@ namespace _20180401_RTtoiRT
         private string line;
         private string[] lineWithRT;
         private double RT;
-        private double RTconvert;
         private double GU;
         private string GUstring;
+        private string numberLines;
         private double firstPartExpEqnDbl;
         private double secondPartExpEqnDbl;
         private char stringSeparators = '"';
         private void button2_Click(object sender, EventArgs e)
         {
+            button2.Hide();
+            label4.Show();
             // when upload button is clicked, open the text file as a stream
             if (openFileDialog1.ShowDialog() == System.Windows.Forms.DialogResult.OK)
             {
                 System.IO.StreamReader sr = new
                     System.IO.StreamReader(openFileDialog1.FileName);
-                destinationFile = openFileDialog1.FileName + "GU";
+                destinationFile = openFileDialog1.FileName + "GU.mzML";
                 // go through line by line
                 // Getting the writer ready to add lines from both if and else to output file
                 System.IO.StreamWriter writer = new System.IO.StreamWriter(destinationFile);
@@ -51,8 +53,7 @@ namespace _20180401_RTtoiRT
                         RT = RT / firstPartExpEqnDbl;
                         // Perform the exponential function, finishing completion to GU
                         GU = Math.Exp(RT);
-                        // Print GU to be sure.
-                        System.Console.WriteLine(GU);
+                        // Print GU to be sure.                       System.Console.WriteLine(GU);
                         GUstring = GU.ToString("R");
                         // Put the GU value back into the line array
                         lineWithRT[7] = GUstring;
@@ -70,8 +71,14 @@ namespace _20180401_RTtoiRT
                         writer.WriteLine(line);
                 }
                 System.Console.WriteLine("There were {0} lines containing scan start time.", counter);
+                numberLines = counter.ToString();
+                label5.Show();
+                lines.Text = numberLines;
                 // Required to save the text file
                 writer.Close();
+                lines.Show();
+                button2.Show();
+                label4.Hide();
             }
         }
     }

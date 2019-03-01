@@ -1,0 +1,10 @@
+C:\Users\cashwood\source\repos\mzML-RT-to-iRT-Exponential-master\20180401_RTtoiRT\obj\Debug\20180913_GWB_to_WURCs.csprojResolveAssemblyReference.cache
+C:\Users\cashwood\source\repos\mzML-RT-to-iRT-Exponential-master\20180401_RTtoiRT\obj\Debug\_20180401_RTtoiRT.Form1.resources
+C:\Users\cashwood\source\repos\mzML-RT-to-iRT-Exponential-master\20180401_RTtoiRT\obj\Debug\_20180401_RTtoiRT.Properties.Resources.resources
+C:\Users\cashwood\source\repos\mzML-RT-to-iRT-Exponential-master\20180401_RTtoiRT\obj\Debug\20180913_GWB_to_WURCs.csproj.GenerateResource.cache
+C:\Users\cashwood\source\repos\mzML-RT-to-iRT-Exponential-master\20180401_RTtoiRT\obj\Debug\20180913_GWB_to_WURCs.csproj.CoreCompileInputs.cache
+C:\Users\cashwood\source\repos\mzML-RT-to-iRT-Exponential-master\20180401_RTtoiRT\obj\Debug\20180401_RTtoiRT.exe
+C:\Users\cashwood\source\repos\mzML-RT-to-iRT-Exponential-master\20180401_RTtoiRT\obj\Debug\20180401_RTtoiRT.pdb
+C:\Users\cashwood\source\repos\mzML-RT-to-iRT-Exponential-master\20180401_RTtoiRT\bin\Debug\20180401_RTtoiRT.exe.config
+C:\Users\cashwood\source\repos\mzML-RT-to-iRT-Exponential-master\20180401_RTtoiRT\bin\Debug\20180401_RTtoiRT.exe
+C:\Users\cashwood\source\repos\mzML-RT-to-iRT-Exponential-master\20180401_RTtoiRT\bin\Debug\20180401_RTtoiRT.pdb

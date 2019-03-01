@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20180401_RTtoiRT", "20180401_RTtoiRT\20180401_RTtoiRT.csproj", "{B7DD455D-662B-43AA-A328-C8BF5F0776BC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20180913_GWB_to_WURCs", "20180401_RTtoiRT\20180913_GWB_to_WURCs.csproj", "{B7DD455D-662B-43AA-A328-C8BF5F0776BC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
